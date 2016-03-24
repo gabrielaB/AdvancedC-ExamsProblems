@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe.config
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.pdb
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.exe
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.pdb

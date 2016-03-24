@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

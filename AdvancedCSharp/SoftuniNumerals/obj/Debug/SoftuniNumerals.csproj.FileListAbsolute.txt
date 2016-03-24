@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\SoftuniNumerals\bin\Debug\SoftuniNumerals.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\SoftuniNumerals\bin\Debug\SoftuniNumerals.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\SoftuniNumerals\bin\Debug\SoftuniNumerals.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\SoftuniNumerals\obj\Debug\SoftuniNumerals.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\SoftuniNumerals\obj\Debug\SoftuniNumerals.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\SoftuniNumerals\obj\Debug\SoftuniNumerals.pdb

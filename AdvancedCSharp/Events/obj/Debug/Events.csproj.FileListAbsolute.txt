@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\Events\bin\Debug\Events.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\Events\bin\Debug\Events.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\Events\bin\Debug\Events.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\Events\obj\Debug\Events.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\Events\obj\Debug\Events.pdb

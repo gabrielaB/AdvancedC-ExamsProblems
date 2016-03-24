@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\CommandEnterpreter\bin\Debug\CommandEnterpreter.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\CommandEnterpreter\bin\Debug\CommandEnterpreter.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\CommandEnterpreter\bin\Debug\CommandEnterpreter.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\CommandEnterpreter\obj\Debug\CommandInterpreter.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\CommandEnterpreter\obj\Debug\CommandEnterpreter.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\CommandEnterpreter\obj\Debug\CommandEnterpreter.pdb

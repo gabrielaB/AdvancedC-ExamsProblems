@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\RageQuit\bin\Debug\RageQuit.exe.config
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\RageQuit\bin\Debug\RageQuit.exe
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\RageQuit\bin\Debug\RageQuit.pdb
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\RageQuit\obj\Debug\RageQuit.exe
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\RageQuit\obj\Debug\RageQuit.pdb

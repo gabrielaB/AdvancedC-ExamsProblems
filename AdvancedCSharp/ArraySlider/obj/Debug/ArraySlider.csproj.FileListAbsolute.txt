@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ArraySlider\bin\Debug\ArraySlider.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ArraySlider\bin\Debug\ArraySlider.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ArraySlider\bin\Debug\ArraySlider.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ArraySlider\obj\Debug\ArraySlider.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ArraySlider\obj\Debug\ArraySlider.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ArraySlider\obj\Debug\ArraySlider.pdb

@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ColletctResources\bin\Debug\ColletctResources.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ColletctResources\bin\Debug\ColletctResources.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ColletctResources\bin\Debug\ColletctResources.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ColletctResources\obj\Debug\ColletctResources.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ColletctResources\obj\Debug\ColletctResources.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\AdvancedCSharp\ColletctResources\obj\Debug\ColletctResources.pdb

@@ -1,0 +1,1 @@
+c:\users\a\documents\visual studio 2015\Projects\AdvancedCSharp\OlympicsAreComming\bin\Debug\OlympicsAreComming.exe.config
